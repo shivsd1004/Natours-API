@@ -1,0 +1,1 @@
+#This is a robust Node.js application that performs all CRUD Operations, Authentication and authorisation through JWT. Based on the RESTful structure and MVC architecute. Mongo DB powered aggregation pipelines are used to perform complex stages based functioning. Views rendered on server side through JADE/PUG Templating.
